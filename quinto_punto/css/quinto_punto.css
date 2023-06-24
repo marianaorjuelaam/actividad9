@@ -1,0 +1,28 @@
+.t_1{
+    color:green ;
+    text-decoration: underline;
+}
+.t_2{
+    color: red;
+    font-weight: bold;
+}
+.t_3{
+    text-decoration: overline underline;
+}
+.t_4{
+    font-size: 40px;
+    font-weight: bold;
+}
+.t_5{
+    color: blue;
+    font-weight: bold;
+    padding-top: 40px;
+}
+.t_6{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.t_7{
+    line-height: 3.2;
+}

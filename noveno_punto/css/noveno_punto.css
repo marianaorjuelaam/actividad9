@@ -1,0 +1,23 @@
+table{
+    background-color: yellow;
+    border: 1px black dotted;/*grosor, color y estilo*/
+    margin: auto;
+    margin-top: 20px;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 60%;
+}
+.titulo{
+    color: red;
+    font-weight: bold;
+}
+.letra{
+    font-size: 11px;
+}
+td{
+    border: 1px black dotted;
+}
+.celda3{
+    border-bottom-color:red ;
+    border-bottom-style: dashed;
+}
